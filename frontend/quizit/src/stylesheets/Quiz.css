@@ -1,0 +1,144 @@
+.quiz-landing {
+    background-color: #41B3A3;
+    min-height: 100vh;
+    margin-top: -50px;
+    color: white;
+}
+
+.logo {
+    width: 300px;
+}
+
+.quiz-landing .submit-btn {
+    background-color: #000022c7 !important;
+    color: white !important;
+    min-height: 40px;
+}
+
+.quiz {
+    background-color: #41B3A3;
+    height: 100vh;
+    width: 100%;
+}
+
+.quiz-questions
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.quiz-landing
+{
+    width: 100%;
+    height: 100vh;
+    background-color:#41B3A3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.quizContainer
+{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5px;
+    box-shadow: 5px 5px 20px #3a3a3a
+}
+.questionContainer
+{
+    width: 90%;
+    height: 200px;
+    background-color: #FFE489;
+    margin: 10px 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.questionNo
+{
+    width: 70px;
+    height: 25px;
+    background-color: #41B3A3;
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,-40%);
+}
+.mark
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #41B3A3;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,40%);
+}
+.btnContainer
+{
+    width: 100%;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.answers
+{
+    width: 80%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    border: 1px solid #41B3A3 ;
+    background-color: white;
+    color: #41B3A3;
+    cursor: pointer;
+    margin-top: 12px;
+}
+.answers:hover{
+    color: white;
+    background-color: #41B3A3;
+}
+
+.selected
+{
+    background-color: #41B3A3;
+    color: white;
+}
+.next-btn .submit-btn {
+    min-height: 40px;
+    width: 80%;
+    background-color: #000022e4 !important;
+}
+
+.result-card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.result-card .submit-btn {
+    background-color: #1A2B63 !important;
+    color: white !important;
+    min-height: 40px;
+}

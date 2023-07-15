@@ -1,0 +1,36 @@
+.signin{
+    min-height: 100vh;
+    margin-top: -50px;
+}
+
+.banner{
+    background-color: rgb(235, 235, 235);
+}
+
+.app-name {
+    color: #41B3A3;
+}
+
+.form-heading {
+    color: rgb(20, 20, 20);
+}
+
+.submit-btn, .submit-btn:hover, .submit-btn:active {
+    background-color: #41B3A3 !important;
+    border: none;
+}
+
+.submit-btn:hover {
+    border: none;
+    background-color: #52b6a8 !important;
+}
+
+.input:focus {
+    border: none;
+    box-shadow: 0 0 7px 0 #41b3a496;
+}
+
+.primary-link{
+    color: #41B3A3;
+    text-decoration: none;
+}

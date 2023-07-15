@@ -1,0 +1,20 @@
+.stat-card{
+    box-shadow: 0 0 5px 0 rgba(60, 60, 60, 0.89);
+}
+
+.stat-card:nth-child(1){
+    background-color: #48639C !important;
+}
+
+.stat-card:nth-child(2){
+    background-color: #475B5A !important;
+}
+
+.stat-card:nth-child(3){
+    background-color: #000022c9 !important;
+}
+
+.create-btn, .create-btn:hover, .create-btn:active{
+    background-color: #232C33;
+    border: none;
+}

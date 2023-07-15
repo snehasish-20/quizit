@@ -1,0 +1,35 @@
+.nav-bar {
+    max-width: 100vw;
+    background-color: #232C33;
+}
+
+.nav-link, .nav-link:focus, .nav-link:hover , .nav-link .show, .dropdown-item{
+    color: white !important;
+}
+
+.dropdown-item:hover{
+    background-color: #232C33;
+}
+
+.dropdown-menu {
+    background-color: #232C33;
+    border: none;
+}
+
+.navbar-toggler{
+    border: none;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.pallete {
+    color: #41B3A3;
+    color: #E9D985;
+    color: #000022;
+    color: #7D5BA6;
+    color: #475B5A;
+    color: #424242;
+    color: #48639C;
+    color: #232C33;
+  }

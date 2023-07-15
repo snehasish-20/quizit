@@ -1,0 +1,30 @@
+.card-icon{
+    cursor: pointer;
+}
+.delete-icon:hover{
+    color: rgb(254, 67, 67);
+}
+
+.edit-icon:hover{
+    color: #41B3A3;
+}
+
+.quiz-list-card{
+    color: rgba(44, 44, 44, 0.902);
+}
+
+.card-btn, .card-btn:hover, .card-btn:active{
+    background-color: #41B3A3;
+    border: none;
+}
+
+.pallete {
+    color: #41B3A3;
+    color: #E9D985;
+    color: #000022;
+    color: #7D5BA6;
+    color: #475B5A;
+    color: #424242;
+    color: #48639C;
+    color: #232C33;
+}

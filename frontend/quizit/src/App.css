@@ -1,0 +1,16 @@
+html {
+  background-color: rgb(246, 246, 246);
+}
+
+.App {
+  background-color: rgb(246, 246, 246);
+  min-height: 100vh;
+}
+
+.pallete {
+  color: #41B3A3;
+  color: #E9D985;
+  color: #000022;
+  color: #7D5BA6;
+  color: #475B5A;
+}

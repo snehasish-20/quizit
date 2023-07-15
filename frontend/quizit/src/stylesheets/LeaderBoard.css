@@ -1,0 +1,50 @@
+.leaderboard {
+    background-color: white;
+    min-height: 100vh;
+    color: #232C33;
+    font-weight: 500;
+}
+
+.rank-card {
+    background-color: #41b3a4dc;
+    border-radius: 5px;
+}
+.avatar{
+    display: inline-block;
+    width: 30px;
+    background-color: #E9D985;
+    height: 30px;
+    border-radius: 50%;
+    color: white;
+    font-size: 16px;
+}
+.bg-1 {
+    background-color: rgba(246, 73, 73, 0.881);
+}
+
+.bg-2 {
+    background-color: rgb(177, 139, 224);
+}
+
+.bg-3 {
+    background-color: rgb(88, 166, 235);
+}
+
+.rank-badge {
+    width: 30px;
+}
+
+.page-title {
+    color: #232C33;
+    font-weight: 600;
+}
+
+.col-title {
+    color: #000022;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.avatar-text {
+    font-weight: 400;
+}
